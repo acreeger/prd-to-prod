@@ -121,6 +121,10 @@ src: ./05-environment/03-choose-ai.md
 ---
 
 ---
+src: ./05-environment/03b-when-to-use.md
+---
+
+---
 src: ./05-environment/04-context-tokens.md
 ---
 
