@@ -1,0 +1,15 @@
+{
+  "name": "fifa-navigator-parent",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "cd fifa-navigator && next dev",
+    "build": "cd fifa-navigator && next build",
+    "start": "cd fifa-navigator && next start",
+    "lint": "cd fifa-navigator && eslint"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
