@@ -2,6 +2,8 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+See @docs/FromProd/AGENT_EXECUTION_GUIDE.md for more guidance.
+
 ## Project Overview
 
 This is an educational repository for teaching spec-driven development: "From PRD to Prod". It contains:
@@ -44,13 +46,13 @@ The `postCreate.sh` script automatically:
 
 ### Location
 
-All demo application code is in `fifa-traffic-demo/` subdirectory.
+All demo application code is in `fifa-navigator/` subdirectory.
 
 ### Common Commands
 
 ```bash
 # Navigate to demo app
-cd fifa-traffic-demo
+cd fifa-navigator
 
 # Install dependencies
 pnpm install
